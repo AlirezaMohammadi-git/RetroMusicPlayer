@@ -1,8 +1,8 @@
 package code.name.monkey.retromusic.network
 
 import android.content.Context
+import androidx.viewbinding.BuildConfig
 import code.name.monkey.retromusic.App
-import code.name.monkey.retromusic.BuildConfig
 import code.name.monkey.retromusic.network.conversion.LyricsConverterFactory
 import com.google.gson.GsonBuilder
 import okhttp3.Cache
